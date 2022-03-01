@@ -5,8 +5,8 @@ import MySQLdb as db
 
 from email.mime.text import MIMEText
 
-# Connect to database
-mycon=db.connect(host="localhost",user="ashna",passwd="ashna21",db="HomeAutoMation")
+# Connect to database (credentials censored)
+mycon=db.connect(host="localhost",user="*****",passwd="*******",db="HomeAutoMation")
 cursor=mycon.cursor()
 
 # Execute query (below line is actual query used but to ensure there is at least one result, the uncommented query uses a fixed time)
