@@ -1,6 +1,7 @@
 # HomeAutomation
 
 ## About
+
 This is a program that uses output from ESP32 chips and MQTT protocols to log when doors
 in a home are opened into a MYSQL database containing door codes and locations.
 
@@ -13,15 +14,16 @@ A easily readable version of this program is provided in this repository, but in
 execute the program, please follow the instructions below.
 
 ## To Run
+
 In order to run this program, you must first install the terminal emulator, PuTTy. Once this is
 properly installed, you must enter the following into the Host Name box: `210.18.139.72`
 
 For the username and password needed to execute the program, I will provide you my credentials:
-Username: `ashna`
-Password: `ashna21`
+Username: `*****`
+Password: `*****`
 
-In addition, please go to your Chrome settings and in the **Security** tab, temporarily enable *Less
-secure app access*
+In addition, please go to your Chrome settings and in the **Security** tab, temporarily enable _Less
+secure app access_
 
 In the PuTTy terminal, type `cd ashna` followed by `nano emailsecurity1.py`
 
