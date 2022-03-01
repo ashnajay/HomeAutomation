@@ -16,11 +16,8 @@ execute the program, please follow the instructions below.
 ## To Run
 
 In order to run this program, you must first install the terminal emulator, PuTTy. Once this is
-properly installed, you must enter the following into the Host Name box: `210.18.139.72`
-
-For the username and password needed to execute the program, I will provide you my credentials:
-Username: `*****`
-Password: `*****`
+properly installed, you must enter the appropriate hostname. My username and password is needed
+to access the server.
 
 In addition, please go to your Chrome settings and in the **Security** tab, temporarily enable _Less
 secure app access_
